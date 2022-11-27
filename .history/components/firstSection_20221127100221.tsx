@@ -8,7 +8,7 @@ const firstsection = () => {
    <div>
      <div>
       <Image src={first_img} alt={''}/>
-      <div><h1 className="p-4">A BRAND NEW FURNITURE</h1></div>
+      <div><h1>A BRAND NEW FURNITURE</h1></div>
       <div><button>Shop Now</button>
      </div>
      </div> 
