@@ -8,7 +8,7 @@ const nav = () => {
   return (
     <div>
       <div>
-     <nav className="space-x-20 absolute top-0 left-0 right-0 px-20 py-14 text-lg font-medium">
+     <nav className="space-x-20 absolute top-0 left-0 right-0 px-20 py-14 text-lg">
           
      <Link href="/">
      <Image

@@ -8,15 +8,15 @@ const nav = () => {
   return (
     <div>
       <div>
-     <nav className="space-x-20 absolute top-0 left-0 right-0 px-20 py-14 text-lg font-medium">
+     <nav className="space-x-20 absolute top-0 left-0 right-0 px-20 py-12">
           
      <Link href="/">
      <Image
       src={Logo}
       alt="Picture of the logo"
-      width={80}
-      height={80}
-      className="absolute top-0 left-0 right-0  mx-8 my-7"
+      width={60}
+      height={50}
+      className="absolute top-0 left-0 right-0  mx-12 my-8"
     />
      </Link>
      <Link href="/">
