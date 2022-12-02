@@ -14,8 +14,7 @@ const firstsection = () => {
     
       
       <Image src={first_img} alt={''}/>
-      <div className="relative px-6 top-500">  <Maincontnet/></div>
-      
+       <Maincontnet/>
       <div><button>Shop Now</button> </div>
      <Nav/>
      

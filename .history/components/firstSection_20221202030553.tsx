@@ -2,8 +2,6 @@ import React from 'react'
 import Image from 'next/image' 
 import first_img from '../assets/images/first_img.png'
 import Nav from '../components/Nav'
-import Maincontnet from '../components/maincontent'
-
 
 
 
@@ -14,8 +12,7 @@ const firstsection = () => {
     
       
       <Image src={first_img} alt={''}/>
-      <div className="relative px-6 top-500">  <Maincontnet/></div>
-      
+     
       <div><button>Shop Now</button> </div>
      <Nav/>
      
