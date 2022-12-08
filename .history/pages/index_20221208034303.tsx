@@ -14,7 +14,7 @@ export default function Home() {
 
       <Chair_Sofa/>
       
-      <div >
+      <div className='relative my-80 bottom-10'>
       <SpecialOffer/> 
       </div>
       

@@ -1,16 +1,17 @@
 import React from 'react'
 import Image from 'next/image' 
 import specialOffer from '../assets/images/specialOffer.png'
+import Chair_Sofa from './Chair_Sofa'
 
 
 const SpecialOffer = () => {
   return (
-    <div className="relative bg-[#E6E1E1]  py-4 my-80 bottom-140 h-120 object-bottom	">
+    <div className="static bg-[#E6E1E1] w-50 py-50">
         <div>
-          <Image src={specialOffer} alt=''/>
           
+        <Chair_Sofa/>
           
-         </div>
+          hi</div>
     </div>
   )
 }

@@ -13,10 +13,7 @@ export default function Home() {
       <Firstsection/>
 
       <Chair_Sofa/>
-      
-      <div >
       <SpecialOffer/> 
-      </div>
       
       
      

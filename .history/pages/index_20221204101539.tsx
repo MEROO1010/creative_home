@@ -9,18 +9,7 @@ export default function Home() {
   return (
     <div>
     
-    <div>
-      <Firstsection/>
-
-      <Chair_Sofa/>
-      
-      <div >
-      <SpecialOffer/> 
-      </div>
-      
-      
-     
-    </div>
+    
     
 
      

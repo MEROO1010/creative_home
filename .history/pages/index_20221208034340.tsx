@@ -14,7 +14,7 @@ export default function Home() {
 
       <Chair_Sofa/>
       
-      <div >
+      <div className='static  top-200'>
       <SpecialOffer/> 
       </div>
       

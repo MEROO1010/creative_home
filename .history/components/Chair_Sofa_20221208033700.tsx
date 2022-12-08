@@ -27,7 +27,7 @@ const Chair_Sofa = () => {
      </div>
       
       <div>
-      
+      <SpecialOffer/> 
       </div>
      
    </div>

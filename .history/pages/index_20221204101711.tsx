@@ -11,12 +11,15 @@ export default function Home() {
     
     <div>
       <Firstsection/>
-
-      <Chair_Sofa/>
+       
+       <div>
+       <Chair_Sofa/>
+        <div>
+        <SpecialOffer/> 
+        </div>
+       </div>
       
-      <div >
-      <SpecialOffer/> 
-      </div>
+     
       
       
      

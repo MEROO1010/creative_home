@@ -5,7 +5,7 @@ import specialOffer from '../assets/images/specialOffer.png'
 
 const SpecialOffer = () => {
   return (
-    <div className="relative bg-[#E6E1E1]  py-4 my-80 bottom-140 h-120 object-bottom	">
+    <div className="absolute bg-[#E6E1E1]  py-15 my-2">
         <div>
           <Image src={specialOffer} alt=''/>
           

@@ -14,9 +14,6 @@ export default function Home() {
 
       <Chair_Sofa/>
       
-      <div >
-      <SpecialOffer/> 
-      </div>
       
       
      

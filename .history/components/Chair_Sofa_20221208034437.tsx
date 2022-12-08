@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Title1 from '../assets/images/title1.png'
 import righBtn from '../assets/images/btn-r.png'
 import leftBtn from '../assets/images/btn-l.png'
-import SpecialOffer from './SpecialOffer'
+import SpecialOffer from '../pages/api/SpecialOffer'
 
 
 

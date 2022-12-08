@@ -1,0 +1,17 @@
+import React from 'react'
+import Image from 'next/image' 
+
+
+const SpecialOffer = () => {
+  return (
+    <div className="static bg-[#E6E1E1] w-50 py-50">
+        <div>
+          
+          
+          
+          hi</div>
+    </div>
+  )
+}
+
+export default SpecialOffer
