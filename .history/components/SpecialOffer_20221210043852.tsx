@@ -7,7 +7,7 @@ import sofa2 from '../assets/images/sofa2.png'
 
 const SpecialOffer = () => {
   return (
-    <div className="absolute bg-[#E6E1E1]  py-10  my-10 bottom-140 h-120  ">
+    <div className="relative bg-[#E6E1E1]  py-10 my-100 top-100 h-120 object-bottom	">
         <div>
           <Image src={specialOffer} alt=''/>        
           
