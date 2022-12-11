@@ -10,7 +10,7 @@ import leftBtn from '../assets/images/btn-l.png'
 
 const Chair_Sofa = () => {
   return (
-    <div className='py-4 '>
+    <div className='py-4'>
      <div className='my-20 py-4'>
      <Image src={Title1} alt={''}/>  
      </div>

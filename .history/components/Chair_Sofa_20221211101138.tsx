@@ -4,14 +4,15 @@ import Image from 'next/image'
 import Title1 from '../assets/images/title1.png'
 import righBtn from '../assets/images/btn-r.png'
 import leftBtn from '../assets/images/btn-l.png'
+import SpecialOffer from './SpecialOffer'
 
 
 
 
 const Chair_Sofa = () => {
   return (
-    <div className='py-4 '>
-     <div className='my-20 py-4'>
+    <div>
+     <div className='my-20'>
      <Image src={Title1} alt={''}/>  
      </div>
 

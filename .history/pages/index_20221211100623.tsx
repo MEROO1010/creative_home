@@ -7,7 +7,7 @@ import SpecialOffer from '../components/SpecialOffer'
 
 export default function Home() {
   return (
-    <div className='overflow-y-auto'>
+    <div>
     
     <div>
       <Firstsection/>

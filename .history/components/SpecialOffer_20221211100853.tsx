@@ -7,18 +7,16 @@ import sofa2 from '../assets/images/sofa2.png'
 
 const SpecialOffer = () => {
   return (
-    <div className='bottom-100'>
-      <div className="relative bg-[#E6E1E1]  py-10    my-80  top-80    ">
-        <div className=' py-4 my-4 top-20'>
+    <div className="relative bg-[#E6E1E1]  py-10  my-90  top-80 float-right   ">
+        <div>
           <Image src={specialOffer} alt=''/>        
           
          </div>
 
-         <div className='  relative mx-80 left-80 px-40'>
+         <div>
           <Image src={sofa2} alt=''/>        
           
          </div>
-    </div>
     </div>
   )
 }
