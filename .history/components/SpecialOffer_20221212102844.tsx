@@ -16,7 +16,7 @@ const SpecialOffer = () => {
           
          </div>
 
-         <div className='  relative ml-40 mt-60 left-80   bottom-80 pl-80 pt-1 '>
+         <div className='  static mt-60 ml-40 right-8 px-40'>
           <Image src={sofa2} alt=''/>        
           
          </div>

@@ -16,12 +16,12 @@ const SpecialOffer = () => {
           
          </div>
 
-         <div className='  relative ml-40 mt-60 left-80   bottom-80 pl-80 pt-1 '>
+         <div className='  relative mx-80 left-80 px-40'>
           <Image src={sofa2} alt=''/>        
           
          </div>
 
-         <div className='relative ml-9 mt-1 right-80   bottom-80 pl-80 pt-1 	  '>
+         <div className='absolute py-4 px-10 top-40 '>
           <Image src={image2} alt=''/>
          </div>
     </div>
