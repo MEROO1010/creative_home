@@ -6,8 +6,6 @@ import Tablekitchen from '../assets/images/Table_Kitchen.png'
 import chair1 from '../assets/images/Chair No-arms.png'
 import brownSofa from '../assets/images/Brown_Chouch.png'
 import yellowsofa from '../assets/images/Yellow_Sofa.png'
-import woodchair from '../assets/images/Wood_Chair.png'
-import modrenchair from '../assets/images/Modern_Sofa.png'
 
 
 
@@ -49,8 +47,8 @@ const TrendingProducts = () => {
      </div>
 
      {/*yellow sofa */}
-     <div className=' absolute ml-80 mt-60 pl-80 pt-40   left-80'>
-       <div className='ml-36 pl-14 mt-80 '>
+     <div className=' absolute ml-80 mt-90 pl-80  left-80'>
+       <div className='ml-36 pl-14'>
        <Image src={yellowsofa} alt=''/> 
        <h1 className='text-[44px]  mt-4  font-verdana'>Table Kitchen</h1>
        <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
@@ -58,29 +56,6 @@ const TrendingProducts = () => {
        </div>  
      </div>
 
-     {/*wood chair */}
-     <div className=' absolute ml-28 mt-80 pl-10 pt-24  left-20'>
-       <div className='ml-80 pl-14 pt-80 '>
-       <Image src={woodchair} alt=''/> 
-       <h1 className='text-[44px]  mt-4  font-verdana'>Table Kitchen</h1>
-       <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
-       <button className=' relative ml-80 my-4  pl-24 bottom-20 '><Image src={Shopping} alt=''/> </button>
-       </div>         
-     </div>
-
-       {/*modren chair */}
-     <div className=' absolute ml-4 mt-80 pl-2  left-70'>
-       <div className='ml-10 mt-80 pt-20 '>
-       <Image src={modrenchair} alt=''/> 
-       <h1 className='text-[44px]  mt-4  font-verdana'>Table Kitchen</h1>
-       <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
-       <button className=' relative ml-80 my-4  pl-24 bottom-20 '><Image src={Shopping} alt=''/> </button>
-       </div>  
-
-       
-     </div>
-
-       
      
      </div>
     </div>

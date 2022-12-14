@@ -65,22 +65,9 @@ const TrendingProducts = () => {
        <h1 className='text-[44px]  mt-4  font-verdana'>Table Kitchen</h1>
        <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
        <button className=' relative ml-80 my-4  pl-24 bottom-20 '><Image src={Shopping} alt=''/> </button>
-       </div>         
-     </div>
-
-       {/*modren chair */}
-     <div className=' absolute ml-4 mt-80 pl-2  left-70'>
-       <div className='ml-10 mt-80 pt-20 '>
-       <Image src={modrenchair} alt=''/> 
-       <h1 className='text-[44px]  mt-4  font-verdana'>Table Kitchen</h1>
-       <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
-       <button className=' relative ml-80 my-4  pl-24 bottom-20 '><Image src={Shopping} alt=''/> </button>
        </div>  
-
-       
      </div>
 
-       
      
      </div>
     </div>
