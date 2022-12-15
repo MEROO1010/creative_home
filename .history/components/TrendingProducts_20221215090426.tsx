@@ -42,7 +42,7 @@ const TrendingProducts = () => {
       <div className='absolute ml-4 mt-12 pl-2  left-70'>
        <div className='ml-10   '> 
        <Image src={brownSofa} alt=''/> 
-       <h1 className='text-[44px]  mt-4  font-verdana'>Brown Chouch</h1>
+       <h1 className='text-[44px]  mt-4  font-verdana'>Brown_Chouch</h1>
        <h1 className='text-[44px]  mt-4  font-verdana font-bold'>$140.00</h1>
        <button className=' relative ml-80 my-4  pl-24 bottom-20 '><Image src={Shopping} alt=''/> </button>
        </div>  
