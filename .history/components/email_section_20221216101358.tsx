@@ -10,15 +10,7 @@ const email_section = () => {
        <Image src={EmailSub} alt=''/>
        </div>
        
-       <h1 className=' absolute ml-80 mt-10 pl-40 pt-18 bottom-20 text-[40px] font-verdana '>
-        Subscribe For Latest News And Discount
-        </h1>
-
-        <div>
-          <input type="search"
-          className=''
-          placeholder='Email Address'/>
-        </div>
+       <h1>Subscribe For Latest News And Discount</h1>
     </div>
   )
 }

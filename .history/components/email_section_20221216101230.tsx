@@ -8,17 +8,8 @@ const email_section = () => {
        
        <div className=' relative mt-80 pt-80 top-40'>
        <Image src={EmailSub} alt=''/>
-       </div>
-       
-       <h1 className=' absolute ml-80 mt-10 pl-40 pt-18 bottom-20 text-[40px] font-verdana '>
-        Subscribe For Latest News And Discount
-        </h1>
 
-        <div>
-          <input type="search"
-          className=''
-          placeholder='Email Address'/>
-        </div>
+       </div>
     </div>
   )
 }
