@@ -4,7 +4,7 @@ import Chair_Sofa from '../components/Chair_Sofa'
 import SpecialOffer from '../components/SpecialOffer'
 import TrendingProducts from '../components/TrendingProducts'
 import Email_section from '../components/Email_section'
-import Footer from '../components/Footer'
+import Footer from '../components/footer'
 
 
 

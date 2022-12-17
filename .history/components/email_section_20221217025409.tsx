@@ -16,7 +16,7 @@ const email_section = () => {
 
         <div>
           <input type="search"
-          className= 'absolute ml-40  pl-4 py-2 bottom-12 text-[40px] font-verdana text-left w-1/2 	 '
+          className= 'absolute ml-40  pl-4 pt-2 bottom-14 text-[40px] font-verdana text-left w-1/2 	 '
           placeholder='Email Address'/>
         </div>
 

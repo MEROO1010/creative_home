@@ -16,12 +16,12 @@ const email_section = () => {
 
         <div>
           <input type="search"
-          className= 'absolute ml-40  pl-4 py-2 bottom-12 text-[40px] font-verdana text-left w-1/2 	 '
+          className= 'absolute ml-40  pl-4  bottom-14 text-[40px] font-verdana text-left w-100 h-18	 '
           placeholder='Email Address'/>
         </div>
 
         <div>
-          <button className='absolute ml-80 right-80  bottom-12 text-[30px] font-verdana h-20 w-80 h-18	bg-black hover:bg-gray-700 text-white font-bold  rounded '>Subscribe</button>
+          <button className='absolute ml-60  pl-4  bottom-14 text-[40px] font-verdana text-left w-100 h-18	 '>Subscribe</button>
         </div>
     </div>
   )
